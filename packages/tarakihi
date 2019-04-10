@@ -1,0 +1,4 @@
+type = theme
+repository = https://github.com/davidbaiguini/theme-tarakihi
+maintainer = David Baiguini
+description = tarakihi theme for oh my fish
